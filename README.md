@@ -2,6 +2,7 @@
 This is a Maze Game in which you have different mazes based on the difficulty level and you have to traverse the maze to reach the end position.
 Firstly it will ask you to enter the number of players and level of difficulty.
 Then you will have to traverse the maze and winner will be declared among the players who will reach the final position in minimum number of steps.
+S denotes start and E end.
 
 Here is the preview: 
 
